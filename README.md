@@ -1,7 +1,8 @@
 # Проекты на Python
 
-### Data processing
+#### Data processing
 Нормализация данных (приведение к общему виду разнородных данных).
-### Cleaning, analysis and visualization data
+#### Cleaning, analysis and visualization data
 Предобработка, визуализация и анализ датасета.
-### Получение данных по API сайта
+#### API Request
+Получение данных по API сайта.
